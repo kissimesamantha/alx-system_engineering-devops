@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^letter /etc/passwd 
+grep ^[a-z] /etc/passwd 
